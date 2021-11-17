@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "321ed0e2-c5d8-4df5-9921-415386a9b8f4": {
+      "ProjectGuid": "321ed0e2-c5d8-4df5-9921-415386a9b8f4",
+      "DisplayName": "dal.test",
+      "ColorIndex": 0
+    },
+    "e7d69247-8980-4146-bad2-d2bbd57f9afb": {
+      "ProjectGuid": "e7d69247-8980-4146-bad2-d2bbd57f9afb",
+      "DisplayName": "api.test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
